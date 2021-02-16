@@ -1,14 +1,13 @@
-/* PROGRAMACION I SECCION 989 
-ING. ALBERTO MONDRAGON
-
-EST: DENNIS M. ANDINO
-CUENTA:31711467
-
+/*
+Autor : DENNIS M. ANDINO
+Correo :dennis_andino@outlook.com
+Github: github.com/dennis-andino
+Canal de youtube: CodigoCompartido
 */
 
-package banet_proy1;
+package BANET;
 import javax.swing.JOptionPane;
-public class Banet_proy1 {
+public class Principal {
     static String nombres[]=new String[10];
     static String apellidos[]=new String[10];
     static String correo[]=new String[10];
